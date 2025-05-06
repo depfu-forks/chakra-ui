@@ -21,15 +21,15 @@
     "build": "babel src -d dist"
   },
   "dependencies": {
-    "@babel/helper-annotate-as-pure": "^7.22.5",
-    "@babel/helper-plugin-utils": "^7.22.5"
+    "@babel/helper-annotate-as-pure": "^7.27.1",
+    "@babel/helper-plugin-utils": "^7.27.1"
   },
   "peerDependencies": {
     "@babel/core": "^7.18.9"
   },
   "devDependencies": {
-    "@babel/cli": "^7.22.10",
-    "@babel/core": "^7.22.10"
+    "@babel/cli": "^7.27.1",
+    "@babel/core": "^7.27.1"
   },
   "jest": {
     "testEnvironment": "node",
